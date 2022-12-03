@@ -1,0 +1,17 @@
+.selectControl{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+}
+
+.selectControl label{
+  margin-bottom: .6em;
+  font-weight: bold;
+}
+
+.selectControl select{
+  padding: .7em;
+  border-radius: 5px;
+  border: 1px solid #7b7b7b;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
